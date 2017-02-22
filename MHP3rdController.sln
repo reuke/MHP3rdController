@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHP3rdController", "MHP3rdController.csproj", "{57A148E6-7568-4626-B884-C1D8B5844CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Debug|x64.Build.0 = Debug|Any CPU
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Release|x64.ActiveCfg = Release|Any CPU
+		{57A148E6-7568-4626-B884-C1D8B5844CAC}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
